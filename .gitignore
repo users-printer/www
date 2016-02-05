@@ -6,9 +6,9 @@
 .gnupg
 .gvm
 .local
-.meteor/*
-.meteorite/*
-.meteorsession/*
+.meteor
+.meteorite
+.meteorsession
 .nave/*
 .node-gyp/*
 **/node_modules
