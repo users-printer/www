@@ -9,6 +9,8 @@ skipsites=""
 sites="
 dev.printer.life
 ms.printer.life
+api.printer.life
+view.printer.life
 "
 
 echo "Starting gitpull" > $LOG
