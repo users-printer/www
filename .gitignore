@@ -1,4 +1,5 @@
 .bash_history
+.babel.json
 .cache/*
 .config/*
 .cordova
