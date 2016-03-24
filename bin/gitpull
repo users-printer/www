@@ -8,7 +8,7 @@ skipsites=""
 
 sites="
 dev.printer.life
-api.printer.life
+sinopia
 "
 
 echo "Starting gitpull" > $LOG

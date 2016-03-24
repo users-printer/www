@@ -6,7 +6,7 @@ PID=""
 
 sites="
 dev.printer.life
-api.printer.life
+sinopia
 "
 
 echo "$DATE : Starting run node check..." > $LOG
